@@ -14,4 +14,4 @@ sca:
     - .
   exclude:
     - glob(**/test/**)
-strict: false
+strict: true
